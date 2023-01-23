@@ -57,7 +57,7 @@
                                 recipeDiv.innerHTML += "<div class='recipe-box'><h2 class='recipe-name'>" + recipes[i].recipeName + "</h2>" +
                                 "<p class='recipe-ingredients'><b>Ingredients:</b> " + recipes[i].ingredients + "</p>" +
                                 "<p class='recipe-steps'><b>Steps:</b> " + recipes[i].recipeSteps + "</p></div>";
-                            break;  }
+                             }
                               
                         })
                             .catch(function(error) {
@@ -94,4 +94,10 @@ surpriseMeButton.addEventListener("click", function() {
             console.log(error);
         });
 });
+
+
+
+
+  
+
 

@@ -84,7 +84,7 @@ button:hover {
     margin: 0.5em 0;
 }
 div {
-    display: flex;
+    display: block;
     justify-content: center;
 }
 
