@@ -1,3 +1,5 @@
 Created by 
-Avi - Backend, Frontend
-Anushka - UI/UX, Frontend 
+Avi, Anushka 
+
+Anushka- Frontend, UX/UI
+Avi - FrontEnd
